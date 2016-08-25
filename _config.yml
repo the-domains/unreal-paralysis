@@ -6,9 +6,9 @@ color:
   saturation: 0.5363398622721434
   rhythmicContrast: 0.23671916988678277
   brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
 name: unreal paralysis
