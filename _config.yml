@@ -1,0 +1,14 @@
+layout_spectrum: 0.9268400541041046
+typography_spectrum: 0.9364519829396158
+color:
+  brandStrength: 0.396973930997774
+  lightness: 0.6746313218027353
+  saturation: 0.5363398622721434
+  rhythmicContrast: 0.23671916988678277
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: unreal paralysis
