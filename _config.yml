@@ -1,4 +1,3 @@
-layout_spectrum: 0.9268400541041046
 typography_spectrum: 0.9364519829396158
 color:
   brandStrength: 0.396973930997774
@@ -6,9 +5,11 @@ color:
   saturation: 0.5363398622721434
   rhythmicContrast: 0.23671916988678277
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+layout_spectrum: 0.9268400541041046
 name: unreal paralysis
+title: when shit gets real
