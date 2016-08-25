@@ -1,16 +1,16 @@
-typography_spectrum: 0.9364519829396158
+layout_spectrum: 0.1774822142906487
+typography_spectrum: 0.901831665309146
 color:
-  brandStrength: 0.396973930997774
-  lightness: 0.6746313218027353
-  saturation: 0.5363398622721434
-  rhythmicContrast: 0.23671916988678277
+  brandStrength: 0.9526867975946516
+  lightness: 0.11348407389596105
+  saturation: 0.2995601207949221
+  rhythmicContrast: 0.8327767620794475
   brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
-layout_spectrum: 0.9268400541041046
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
 name: unreal paralysis
 title: when shit gets real
 description: latest tech releases and gadgets for geeks
