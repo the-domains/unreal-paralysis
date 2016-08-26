@@ -1,24 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[unreal paralysis]]></title>
-        <description><![CDATA[unreal paralysis]]></description>
+        <title><![CDATA[when shit gets real]]></title>
+        <description><![CDATA[when shit gets real]]></description>
         <link>https://thegrid.ai/unreal-paralysis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 14:34:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2016 10:36:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/unreal-paralysis/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Parrot Disco fixed-wing drone priced at $1,300, lands in September (hands-on)]]></title>
-            <description><![CDATA[<article><h1>Parrot Disco fixed-wing drone priced at $1,300, lands in September (hands-on)</h1><p>The wing-shaped drone is as easy to fly as -- if not easier than -- the company's quadcopters, so people without experience can explore their surroundings from the sky.</p><img src="https://cnet4.cbsistatic.com/img/IhvWbCCdchDehJ71r7sh2Zl2yqg=/770x433/2016/08/23/f8012e92-6e5d-4214-8b3f-ee40cb876272/parrot-disco-24.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Parrot Disco fixed-wing drone priced at $1,300, lands in September (hands-on)</h1><p>The wing-shaped drone is as easy to fly as -- if not easier than -- the company's quadcopters, so people without experience can explore their surroundings from the sky.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f369f7b772ec05765a9ecdf5f6d98400/noop.jpg?input=https%3A%2F%2Fcnet4.cbsistatic.com%2Fimg%2FIhvWbCCdchDehJ71r7sh2Zl2yqg%3D%2F770x433%2F2016%2F08%2F23%2Ff8012e92-6e5d-4214-8b3f-ee40cb876272%2Fparrot-disco-24.jpg"></article>]]></description>
             <link>http://www.cnet.com/products/parrot-disco/</link>
             <guid isPermaLink="false">266ed87a-c4ed-4c47-808c-5a1feaf184ec</guid>
             <pubDate>Thu, 25 Aug 2016 14:34:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Timbuk2 + Blue Bottle's Sabbatical Travel Kit]]></title>
-            <description><![CDATA[<article><h1>Timbuk2 + Blue Bottle's Sabbatical Travel Kit</h1><p>If the recent buyouts of Intelligentsia and Stumptown are any indication, the growing popularity of craft coffee shows no signs of slowing down. While single origin pour-overs are now commonplace in many coffeeshops, sometimes when you're off the beaten path, your morning cup of coffee is harder to perfect.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d979f42e1fe163d4ad2ae387a8da167c/croprotate.jpg?cropheight=861&cropwidth=1576&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fba000655e6b2a554855a55a3bfaa786ed97ccb09.jpg&x=0&y=0"></article>]]></description>
-            <link>http://www.coolhunting.com/food-drink/timbuk2-blue-bottle-travel-kit-coffee</link>
-            <guid isPermaLink="false">7b9d1257-c76e-4e8b-97ed-e37f7539ef11</guid>
-            <pubDate>Thu, 25 Aug 2016 13:43:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
