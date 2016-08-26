@@ -1,16 +1,28 @@
-typography_spectrum: 0.901831665309146
+title: when shit gets real
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.9526867975946516
-  lightness: 0.11348407389596105
-  saturation: 0.2995601207949221
-  rhythmicContrast: 0.8327767620794475
+  saturation: 0.3136201
+  brandStrength: 0.8978494
+  lightness: 0.1702509
   brandColors:
     - '#000000'
     - '#404040'
     - '#808080'
     - '#BFBFBF'
     - '#FFFFFF'
-layout_spectrum: 0.1774822142906487
-name: unreal paralysis
-title: when shit gets real
+  rhythmicContrast: 0.8327768
+typography_spectrum: 0.6433692
 description: tech & gadgets
+layout_spectrum: 0.2849462
+name: unreal paralysis
